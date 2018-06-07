@@ -2,7 +2,7 @@ const fs = require('fs');
 const PNG = require('pngjs').PNG;
 const chalk = require('chalk');
 
-fs.createReadStream('1.png')
+fs.createReadStream('in.png')
   .pipe(new PNG({
     filterType: 4
   }))
