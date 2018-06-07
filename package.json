@@ -1,0 +1,26 @@
+{
+  "name": "image-to-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youpinyao/image-to-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youpinyao/image-to-code/issues"
+  },
+  "homepage": "https://github.com/youpinyao/image-to-code#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "pngjs": "^3.3.3"
+  }
+}
